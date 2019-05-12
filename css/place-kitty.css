@@ -9,7 +9,11 @@
 
 /* Select the image with id of kitty-2 */
 
+<<<<<<< HEAD
 #kitty-2 {
+=======
+.kitty-2 {
+>>>>>>> 363287725aa97221c54851f6b59bdb4cc42e1704
   position: absolute;
   z-index: 2;
   top: 212px;
@@ -36,7 +40,11 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
+<<<<<<< HEAD
 img[alt="Kitty 5"] {
+=======
+img[Kitty 5] {
+>>>>>>> 363287725aa97221c54851f6b59bdb4cc42e1704
   position: absolute;
   z-index: 3;
   top: 217px;
